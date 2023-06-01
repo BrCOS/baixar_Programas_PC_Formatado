@@ -2,7 +2,7 @@ import urllib.request
 import os
 import sys
 
-#! firefox - vscode - stremio - 7zip - git - qbitorrent - zoom - vlc - chrome
+#! firefox - vscode - libre office - 7zip - git - zoom - vlc - chrome - anydesk
 pastaDownloads = os.path.join(os.path.expanduser("~"), "Downloads", "arquivos")
 if not os.path.exists(pastaDownloads):
     os.makedirs(pastaDownloads)
